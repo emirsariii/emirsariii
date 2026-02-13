@@ -2,7 +2,7 @@
 ### 👨‍💻 Hakkımda
 Ben **Kocaeli Sağlık ve Teknoloji Üniversitesi (KOSTÜ)** bünyesinde **Yazılım Mühendisliği** (3. Sınıf) öğrencisiyim.hem akademik projelerimle hem de freelance çalışmalarla kendimi geliştiriyorum. Algoritmalar, otomasyon sistemleri ve modern web teknolojileri üzerine yoğunlaşmış durumdayım.
 
-- 🛠️ Şu an **Sınav Çizelgeleme Sistemi** ve **Kütüphane Yönetim Yazılımları** üzerine projeler geliştiriyorum.
+- 🛠️ Şu an **Sınav Çizelgeleme Sistemi**,**Kütüphane Yönetim Yazılımları** ve **Oyuncak Mağazası Sitesi** üzerine projeler geliştiriyorum.
 - 🌍 **Türkçe**,**İngilizce** ve **Flemenkçe** dillerine hakimim.
 - 🎯 Hedefim: Verimli, ölçeklenebilir ve kullanıcı dostu yazılım çözümleri üretmek ve kendimi olabildiğince geliştirmek.
 
