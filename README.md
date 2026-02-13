@@ -23,19 +23,3 @@ Ben **Kocaeli Sağlık ve Teknoloji Üniversitesi (KOSTÜ)** bünyesinde **Yazı
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 GitHub İstatistiklerim
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMED_EMIR_KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMED_EMIR_KULLANICI_ADIN&layout=compact&theme=tokyonight" />
-</p>
-
-### 📂 Öne Çıkan Projelerim
-* **[Exam Scheduling System](link)**: Karmaşık algoritmalar kullanarak otomatik sınav takvimi oluşturan Python tabanlı sistem.
-* **[Library Management System](link)**: Veri yapıları ve OOP prensipleriyle kurgulanmış kapsamlı bir yönetim yazılımı.
-* **[Airport Baggage Simulator](link)**: Lojistik ve güvenlik süreçlerini simüle eden Python projesi.
-
-### 📫 Bana Ulaşın
-<p align="left">
-  <a href="https://www.linkedin.com/in/MUHAMMED_EMIR_LINKEDIN_ADIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed emir sarı" height="30" width="40" /></a>
-  <a href="mailto:eposta_adresin@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
