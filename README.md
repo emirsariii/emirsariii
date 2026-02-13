@@ -1,15 +1,10 @@
 # Merhaba, ben Muhammed Emir Sarı! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MUHAMMED_EMIR_KULLANICI_ADIN&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="görüntüleme" />
-</p>
-
 ### 👨‍💻 Hakkımda
 Ben **Kocaeli Sağlık ve Teknoloji Üniversitesi (KOSTÜ)** bünyesinde **Yazılım Mühendisliği** (3. Sınıf) öğrencisiyim. Belçika vatandaşlığım var ve hem akademik projelerimle hem de freelance çalışmalarla kendimi geliştiriyorum. Algoritmalar, otomasyon sistemleri ve modern web teknolojileri üzerine yoğunlaşmış durumdayım.
 
 - 🛠️ Şu an **Sınav Çizelgeleme Sistemi** ve **Kütüphane Yönetim Yazılımları** üzerine projeler geliştiriyorum.
-- 🌍 **Türkçe** ve **Flemenkçe** dillerine hakimim.
-- 🎯 Hedefim: Verimli, ölçeklenebilir ve kullanıcı dostu yazılım çözümleri üretmek.
+- 🌍 **Türkçe**,**İngilizce** ve **Flemenkçe** dillerine hakimim.
+- 🎯 Hedefim: Verimli, ölçeklenebilir ve kullanıcı dostu yazılım çözümleri üretmek ve kendimi olabildiğince geliştirmek.
 
 ### 🛠️ Teknolojik Yetkinlikler
 <p align="left">
