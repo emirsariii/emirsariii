@@ -1,6 +1,6 @@
 # Merhaba, ben Muhammed Emir Sarı! 👋
 ### 👨‍💻 Hakkımda
-Ben **Kocaeli Sağlık ve Teknoloji Üniversitesi (KOSTÜ)** bünyesinde **Yazılım Mühendisliği** (3. Sınıf) öğrencisiyim. Belçika vatandaşlığım var ve hem akademik projelerimle hem de freelance çalışmalarla kendimi geliştiriyorum. Algoritmalar, otomasyon sistemleri ve modern web teknolojileri üzerine yoğunlaşmış durumdayım.
+Ben **Kocaeli Sağlık ve Teknoloji Üniversitesi (KOSTÜ)** bünyesinde **Yazılım Mühendisliği** (3. Sınıf) öğrencisiyim.hem akademik projelerimle hem de freelance çalışmalarla kendimi geliştiriyorum. Algoritmalar, otomasyon sistemleri ve modern web teknolojileri üzerine yoğunlaşmış durumdayım.
 
 - 🛠️ Şu an **Sınav Çizelgeleme Sistemi** ve **Kütüphane Yönetim Yazılımları** üzerine projeler geliştiriyorum.
 - 🌍 **Türkçe**,**İngilizce** ve **Flemenkçe** dillerine hakimim.
